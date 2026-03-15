@@ -15,7 +15,7 @@ This app demonstrates the core functionality of the group project using **R Shin
 ## Live App
 The deployed version of the app can be accessed here:
 
-**[Add your Posit Connect Cloud deployment link here]**
+https://019ceefb-8e98-1ad3-49c6-76314b09fbaa.share.connect.posit.cloud/
 
 ## Installation
 
